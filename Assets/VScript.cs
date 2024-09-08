@@ -6,6 +6,7 @@ public class VScript : MonoBehaviour
 {
     [SerializeField]
     private float Count;
+    public GameObject Object1;
 
     // Start is called before the first frame update
     void Start()
